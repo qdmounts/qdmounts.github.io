@@ -1,0 +1,10 @@
+---
+layout: news
+title: Events
+permalink: /news/events/
+author: all
+---
+
+{% for post in site.categories.event %}
+  {% include news_item.html %}
+{% endfor %}

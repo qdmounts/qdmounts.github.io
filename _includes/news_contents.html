@@ -1,0 +1,57 @@
+<div class="unit one-fifth hide-on-mobiles">
+  <aside>
+    <ul>
+      <li class="{% if page.title == 'News' %}current{% endif %}">
+        <a href="/news/">All News</a>
+      </li>
+<!--
+      <li class="{% if page.title == 'Events' %}current{% endif %}">
+        <a href="/news/events/">Events</a>
+      </li>
+-->
+    </ul>
+    <h4>Recent Events</h4>
+    <ul>
+      {% for post in site.categories.event limit:5 %}
+      <li class="{% if page.title == post.title %}current{% endif %}">
+        <a href="{{ post.url }}">
+        {{ post.location_city}},&nbsp;{{ post.location_state }}
+        {% assign EVENT_STATUS = "&nbsp;<b>today</b>" %}
+        {% assign curDate = site.time | date: '%Y-%m-%d' %}
+        {% assign postEventDateStart = post.event_date_start | date: '%Y-%m-%d' %}
+        {% assign postEventDateEnd = post.event_date_end | date: '%Y-%m-%d' %}
+        {% if postEventDateStart > curDate %}{% assign EVENT_STATUS = "&nbsp;<i>(upcoming)</i>" %}{% endif %}
+        {% if postEventDateEnd < curDate %}{% assign EVENT_STATUS = "&nbsp;" %}{% endif %}
+        &nbsp;{{ EVENT_STATUS }}
+        </a>
+      </li>
+      {% endfor %}
+      <li>
+        <a href="/news/events/">History »</a>
+      </li>
+    </ul>
+    <h4>Recent Articles</h4>
+    <ul>
+      {% for post in site.categories.article limit:5 %}
+      <li class="{% if page.title == post.title %}current{% endif %}">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+      <li>
+        <a href="/news/articles/">History »</a>
+      </li>
+    </ul>
+    <h4>Other News</h4>
+    <ul>
+      {% for post in site.posts %}
+        {% unless post.categories contains 'event' %}
+          {% unless post.categories contains 'article' %}
+      <li class="{% if page.title == post.title %}current{% endif %}">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+          {% endunless %}
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </aside>
+</div>

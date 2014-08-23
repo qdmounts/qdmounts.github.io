@@ -1,0 +1,8 @@
+<div class="unit one-fifth hide-on-mobiles">
+  <aside>
+    {% for section in site.data.products %}
+    <h4>{{ section.title }}</h4>
+    {% include products_ul.html items=section.products %}
+    {% endfor %}
+  </aside>
+</div>

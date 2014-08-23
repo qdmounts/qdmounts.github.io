@@ -1,0 +1,23 @@
+- name: Some Brake
+  SKU: 3-1-1
+  note: This is a note.
+  price: 100
+  options:
+    - option: OPT1
+    - option: OPT2
+
+- name: Another Brake
+  SKU: 3-1-2
+  note: This is a note.
+  price: 100
+  options:
+    - option: OPT1
+    - option: OPT2
+    - option: OPT3
+
+- name: Last Brake
+  SKU: 3-1-3
+  note: This is a note.
+  price: 100
+  options:
+    - option: OPT1
