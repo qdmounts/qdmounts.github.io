@@ -19,6 +19,7 @@ In addition to the options below, you can request special configurations as well
     <tr>
       <th>Product</th>
       <th><span class="option">Options</span> and <span class="flag">Price</span></th>
+      <th>&nbsp;</th>
     </tr>
   </thead>
   <tbody>
