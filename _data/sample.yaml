@@ -1,0 +1,11 @@
+---
+productName: Colt M16/AR15
+productNote: This is a note
+productPrices:
+  discounted: "100.00"
+  retail: "125.00"
+  sale: "120.00"
+productOptions:
+  - ALUMINUM
+  - STEEL
+  - TITANIUM
