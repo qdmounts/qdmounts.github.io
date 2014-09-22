@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Guns Magazine Article'
+title: 'November 2007 Guns Magazine Article'
 date: 2007-11-11 11:11:00 -0500
 author: prolixalias
 categories: [article]

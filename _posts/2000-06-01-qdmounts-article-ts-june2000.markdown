@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Tactical Shooter Article'
+title: 'June 2000 Tactical Shooter Article'
 date: 2000-06-01 00:02:44 -0500
 author: prolixalias
 categories: [article]
