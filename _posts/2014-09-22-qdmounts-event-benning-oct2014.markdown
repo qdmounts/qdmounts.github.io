@@ -5,7 +5,7 @@ date: 2014-09-22 12:55:00 -0500
 event_date_start: 2014-10-20
 event_date_end: 2014-10-24
 author: prolixalias
-location_city: Fort Benning
+location_city: Columbus
 location_state: GA
 categories: [event, military]
 ---
