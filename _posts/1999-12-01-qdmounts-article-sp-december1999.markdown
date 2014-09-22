@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Sniper&#39;s Paradise 1999'
+title: 'Sniper&#8217;s Paradise 1999'
 date: 1999-12-01 00:10:00 -0500
 author: prolixalias
 categories: [article]
