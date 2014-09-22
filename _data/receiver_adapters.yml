@@ -162,22 +162,25 @@
   price_list: '250.00'
   price_sale: '200.00'
   options:
-    - option: LH
-    - option: RH
+    - option: 0MOA
+    - option: 10MOA
+    - option: 20MOA
 
 - name: MIL-STD 1913 Low
   price_list: '250.00'
   price_sale: '200.00'
   options:
-    - option: LH
-    - option: RH
+    - option: 0MOA
+    - option: 10MOA
+    - option: 20MOA
 
 - name: MIL-STD 1913 Windage-Adjustable
   price_list: '285.00'
   price_sale: '228.00'
   options:
-    - option: LH
-    - option: RH
+    - option: 0MOA
+    - option: 10MOA
+    - option: 20MOA
 
 - name: Montana LA
   price_list: '220.00'
