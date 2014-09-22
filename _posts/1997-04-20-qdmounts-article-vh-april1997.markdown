@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'Varmint Hunter - APR1997'
+title: 'Varmint Hunter APR1997'
 date: 1997-04-20 10:22:00 -0500
 author: prolixalias
 categories: [article]
