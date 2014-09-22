@@ -7,7 +7,7 @@ excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
 DISABLED_gauges_id: 503c5af6613f5d0f19000027
 google_analytics_id: UA-33287620-2
 
-repository: https://github.com/prolixalias
+repository: https://github.com/qdmounts
 
 collections:
   docs:
@@ -16,3 +16,5 @@ collections:
   products:
     output: true
     title: products
+
+sale_active: true

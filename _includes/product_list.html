@@ -11,7 +11,14 @@
     {% endfor %}
         </p>
   {% endif %}
-        <p><code class="flag">${{ item.price }}</code></p>
+  {% if site.sale_active %}
+        <p>
+          <code class="on_sale">${{ item.price_list }}</code>
+          <code class="sale_price">${{ item.price_sale }}</code>
+        </p>
+  {% else %}
+        <p><code class="list_price">${{ item.price_list }}</code></p>
+  {% endif %}
       </td>
       <td>
         <p><img src="/img/made_in_usa.png" alt="USA" height="23" width="22"></p>

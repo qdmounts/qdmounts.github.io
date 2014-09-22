@@ -1,4 +1,17 @@
 <footer>
+
+{% if site.sale_active %}
+<section class="sale">
+  <div class="grid">
+    <div class="unit golden-wide center-on-mobiles">
+      <h4>SALE: 20% off!</h4>
+      <h4>Call +1-810-240-8427 for details.</h4>
+    </div>
+    <div class="clear"></div>
+  </div>
+</section>
+{% endif %}
+
   <div class="grid">
     <div class="unit one-third center-on-mobiles">
       <p>Contents &copy;&nbsp;{{ site.time | date: '%Y' }} Talbot QD Mounts&nbsp;<br>All rights reserved</p>

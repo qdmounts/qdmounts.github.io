@@ -1,20 +1,85 @@
-- name: Colt M16/AR15
-  SKU: 1-1-1
-  note: This is a note.
-  price: 100
-  options:
-    - option: STD
-    - option: EXT
+- name: Anschutz 1515/16/17
+  price_list: '220.00'
+  price_sale: '176.00'
 
-- name: Sig SCAR
-  SKU: 1-1-2
-  note: This is a note.
-  price: 100
+- name: Barnard PC05-05
+  price_list: '220.00'
+  price_sale: '176.00'
 
-- name: Dakota Something
-  SKU: 1-1-3
-  note: This is a note.
-  price: 200
+- name: BAT M496
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Blaser 93
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Blaser Tatical
+  price_list: '250.00'
+  price_sale: '200.00'
+
+- name: Browning "A" Bolt LA
+  note: 'This is a note.'
+  price_list: '220.00'
+  price_sale: '176.00'
   options:
-    - option: STD
-    - option: EXT
+    - option: LH
+    - option: RH
+
+- name: Browning "A" Bolt SA
+  note: 'This is a note.'
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Browning "A" Bolt WSM
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Browning BAR
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Browning BLR
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Cooper 21
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Cooper 22
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Cooper 36
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Dakota LA
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Dakota MAG
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: FN Police SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: FN Police WSM
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+

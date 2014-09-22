@@ -811,11 +811,21 @@ code.option, th .option, code.filter, th .filter {
   color: #50B600;
 }
 
-code.flag, th .flag, code.output, th .output {
+code.list_price, th .price, code.output, th .output {
   color: #049DCE;
 }
 
-code.option, code.flag, code.filter, code.output {
+code.on_sale {
+  color: #049DCE;
+  text-decoration: line-through;
+  text-decoration-style: double;
+}
+
+code.sale_price {
+  color: #049DCE;
+}
+
+code.option, code.list_price, code.sale_price, code.filter, code.output {
   margin-bottom: 2px;
 }
 
