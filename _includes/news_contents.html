@@ -20,7 +20,7 @@
         {% assign curDate = site.time | date: '%Y-%m-%d' %}
         {% assign postEventDateStart = post.event_date_start | date: '%Y-%m-%d' %}
         {% assign postEventDateEnd = post.event_date_end | date: '%Y-%m-%d' %}
-        {% if postEventDateStart > curDate %}{% assign EVENT_STATUS = "<br>&nbsp;&#10149;&nbsp;<i>(upcoming)</i>" %}{% endif %}
+        {% if postEventDateStart > curDate %}{% assign EVENT_STATUS = "<br>&nbsp;&nbsp;&#10149;&nbsp;<i>(upcoming)</i>" %}{% endif %}
         {% if postEventDateEnd < curDate %}{% assign EVENT_STATUS = "&nbsp;" %}{% endif %}
         &nbsp;{{ EVENT_STATUS }}
         </a>
