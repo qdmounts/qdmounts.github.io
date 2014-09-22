@@ -1,23 +1,62 @@
+- name: 1&quot; Ring Rail
+  price_list: '95.00'
+  price_same: '76.00'
+  options:
+    - option: STD
+    - option: REV
+
 - name: 30mm Ring Rail
-  SKU: 2-1-1
-  note: This is a note.
-  price: 75
+  price_list: '100.00'
+  price_sale: '80.00'
   options:
-    - option: ALUM
-    - option: STEEL
+    - option: STD
+    - option: REV
 
-- name: 1" Ring Rail
-  SKU: 2-1-2
-  note: This is a note.
-  price: 100
+- name: 30mm Ring Rail High
+  price_list: '100.00'
+  price_sale: '80.00'
   options:
-    - option: ALUM
-    - option: STEEL
+    - option: STD
+    - option: REV
 
-- name: 40mm Ring Rail
-  SKU: 3-1-3
-  note: This is a note.
-  price: 125
+- name: 34mm Ring Rail High
+  price_list: '110.00'
+  price_sale: '88.00'
   options:
-    - option: ALUM
-    - option: STEEL
+    - option: STD
+    - option: REV
+
+- name: 35mm Ring Rail High
+  price_list: '110.00'
+  price_sale: '88.00'
+  options:
+    - option: STD
+    - option: REV
+
+- name: 40mm Ring Rail High
+  price_list: '115.00'
+  price_sale: '92.00'
+  options:
+    - option: STD
+    - option: REV
+
+- name: ACOG
+  price_list: '95.00'
+  price_sale: '76.00'
+
+- name: CCO M68 Aimpoint
+  price_list: '95.00'
+  price_sale: '76.00'
+
+- name: MIL-STD 1913
+  note: 'EOTech, etc.'
+  price_list: '95.00'
+  price_sale: '76.00'
+
+- name: MIL-STD 1913 - 1&quot; Extended
+  price_list: '110.00'
+  price_sale: '88.00'
+  options:
+    - option: NOSE
+    - option: TAIL
+
