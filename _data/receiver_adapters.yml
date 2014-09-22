@@ -218,3 +218,234 @@
   price_list: '220.00'
   price_sale: '176.00'
 
+- name: Python
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Remington 700 LA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Remington 700 M24 Army Sniper
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Remington 700 SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Remington 722 SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Remington 7600
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Remington Model 7
+  note: 'Right-hand only'
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Ruger 10/22
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Ruger 77 LA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Ruger 77 SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Ruger 7750 BP
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Ruger Ranch .223 & 7.62x39
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: S & W Revolver 460 -500
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Sako 995
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Sako AII
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Sako AV
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Sako TRG 41
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Sauer 202
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Savage FTR S
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Savage LA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+    - option: Round
+    - option: Flat
+
+- name: Savage SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+    - option: Round
+    - option: Flat
+
+- name: Sig SHR 970
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Springfield M1A & M14
+  note: 'with &quot;peep&quot;'
+  price_list: '250.00'
+  price_sale: '200.00'
+
+- name: Springfield M1A & M14 low
+  note: 'without &quot;peep&quot;'
+  price_list: '250.00'
+  price_sale: '200.00'
+
+- name: Steyr SSG
+  price_list: '250.00'
+  price_sale: '200.00'
+
+- name: Thompson Center Encore
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Tikka LA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Tikka SA
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Ultra Light Arms 20
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Ultra Light Arms 24
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Ultra Light Arms 32
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Weatherby MKV
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Weatherby MKV Ultra-Lite
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: White Muzzle Loader
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Winchester M70 LA - Current
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Winchester M70 MAG - Current
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Winchester M70 SA - Current
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Winchester M70 WSM
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Winchester M70 WSSM
+  price_list: '220.00'
+  price_sale: '176.00'
+  options:
+    - option: LH
+    - option: RH
+
+- name: Winchester Pre-64 M70 LA
+  price_list: '220.00'
+  price_sale: '176.00'
+
+- name: Winchester Pre-64 M70 MAG
+  price_list: '220.00'
+  price_sale: '176.00'
+
