@@ -18,8 +18,8 @@ We'll be attending **20OCT2014** through **24OCT2014**... On display:
 
 Stop by and see us!
 
-`    2014 International Sniper Competition
-    Fort Benning, GA 31905    
+`    2014 International Sniper Competition    
+    Fort Benning, GA 31905
     706-545-2011
 `
 
