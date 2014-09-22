@@ -1,7 +1,7 @@
 ---
 layout: news_item
-title: '2015 SHOT Show'
-date: 2014-08-21 20:38:34 -0500
+title: '2015 International Sniper Competition'
+date: 2014-09-22 12:55:00 -0500
 event_date_start: 2014-10-20
 event_date_end: 2014-01-24
 author: prolixalias
