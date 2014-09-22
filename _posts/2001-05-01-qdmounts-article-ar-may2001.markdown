@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'May 2001 Accurate Rifle Article'
+title: 'Accurate Rifle - MAY2001'
 date: 2001-05-01 11:38:00 -0500
 author: prolixalias
 categories: [article]
