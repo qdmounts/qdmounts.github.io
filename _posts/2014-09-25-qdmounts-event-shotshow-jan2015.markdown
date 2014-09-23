@@ -7,6 +7,8 @@ event_date_end: 2015-01-23
 author: prolixalias
 location_city: Las Vegas
 location_state: NV
+comments: true
+disqus_identifier: '20140925203834'
 categories: [event, military, le, recreation]
 ---
 

@@ -7,6 +7,8 @@ event_date_end: 2014-04-06
 author: prolixalias
 location_city: Petoskey
 location_state: MI
+comments: true
+disqus_identifier: '20140301203900'
 categories: [event, recreation]
 ---
 

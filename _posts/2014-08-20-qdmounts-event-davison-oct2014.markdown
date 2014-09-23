@@ -7,6 +7,8 @@ event_date_end: 2014-10-26
 author: prolixalias
 location_city: Davison
 location_state: MI
+comments: true
+disqus_identifier: '20140820203834'
 categories: [event, recreation]
 ---
 

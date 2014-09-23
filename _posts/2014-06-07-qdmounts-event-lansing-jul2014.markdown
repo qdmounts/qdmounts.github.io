@@ -7,6 +7,8 @@ event_date_end: 2014-07-06
 author: prolixalias
 location_city: Lansing
 location_state: MI
+comments: true
+disqus_identifier: '20140607120000'
 categories: [event, recreation]
 ---
 

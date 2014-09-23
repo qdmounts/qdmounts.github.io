@@ -7,6 +7,8 @@ event_date_end: 2014-05-18
 author: prolixalias
 location_city: Cheboygan
 location_state: MI
+comments: true
+disqus_identifier: '20140402203900'
 categories: [event, recreation]
 ---
 
