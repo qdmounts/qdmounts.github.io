@@ -1,0 +1,14 @@
+- name: This tactical ring
+  SKU: 4-1-1
+  note: This is a note.
+  price: 100
+
+- name: That tactical ring
+  SKU: 4-1-2
+  note: This is a note.
+  price: 100
+
+- name: Last tactical ring
+  SKU: 4-1-3
+  note: This is a note.
+  price: 100

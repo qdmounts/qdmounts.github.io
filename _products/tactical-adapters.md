@@ -1,16 +1,16 @@
 ---
 layout: products
-title: Optic Adapters
-prev_section: receiver-adapters
-next_section: tactical-rings
-permalink: /products/optic-adapters/
+title: Tactical Rings
+prev_section: optic-adapters
+next_section: standard-brakes
+permalink: /products/tactical-rings/
 ---
 
 We make these!
 
 ### Product list
 
-In addition to the options below, you can request special configurations as well as unlisted optics.
+In addition to the options below, you can request special configurations as well as unlisted rings.
 
 <div class="mobile-side-scroller">
 
@@ -23,7 +23,7 @@ In addition to the options below, you can request special configurations as well
     </tr>
   </thead>
   <tbody>
-{% for item in site.data.optic_adapters %}
+{% for item in site.data.tactical_rings %}
   {% include product_list.html %}
 {% endfor %}
   </tbody>
