@@ -8,7 +8,7 @@ author: prolixalias
 location_city: Fort Benning
 location_state: GA
 comments: true
-disqus_identifier: 20140922125500
+disqus_identifier: '20140922125500'
 categories: [event, military]
 ---
 
