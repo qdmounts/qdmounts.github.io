@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Tactical Rings
-prev_section: optic-adapters
+prev_section: lever-rings
 next_section: standard-brakes
 permalink: /products/tactical-rings/
 ---
