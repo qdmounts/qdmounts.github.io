@@ -1,6 +1,5 @@
 ---
 layout: news_item
-comments: true
 title: '2014 International Sniper Competition'
 date: 2014-09-22 12:55:00 -0500
 event_date_start: 2014-10-20
@@ -8,6 +7,8 @@ event_date_end: 2014-10-24
 author: prolixalias
 location_city: Fort Benning
 location_state: GA
+comments: true
+disqus_identifier: 20140922125500
 categories: [event, military]
 ---
 

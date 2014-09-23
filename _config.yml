@@ -3,11 +3,9 @@ highlighter: pygments
 relative_permalinks: false
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
-
 google_analytics_id: UA-33287620-2
-
 repository: https://github.com/qdmounts
-
+disqus_short_name: qdmounts
 collections:
   docs:
     output: true
@@ -15,6 +13,5 @@ collections:
   products:
     output: true
     title: products
-
 sale_active: true
 sale_ends: 2014-12-31
