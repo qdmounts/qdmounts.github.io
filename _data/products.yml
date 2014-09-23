@@ -2,7 +2,10 @@
   products:
   - receiver-adapters
   - optic-adapters
+
+- title: Rings
   - lever-rings
+  - tactical-rings
 
 - title: Muzzle Brakes
   products:
