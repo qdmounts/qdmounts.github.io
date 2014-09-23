@@ -16,6 +16,6 @@ collections:
     output: true
     title: products
 
-sale_active: true
+sale_active: false
 sale_code: NRA2014
 sale_ends: 2014-12-31
