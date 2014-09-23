@@ -10,3 +10,5 @@ We were featured in Guns Magazine!
 
 Excerpt:
 "This mount was both easy and extremely fast to dismount and remount ... why did [Talbot QD Mounts] post much better results?"
+
+For more information visit [Guns Magazine'](http://fmgpublications.ipaperus.com/FMGPublications/GUNS/GUNS0412/?Page=18) online.
