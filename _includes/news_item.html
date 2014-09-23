@@ -23,14 +23,7 @@
   <div class="post-content">
     {{ post.content }}
   </div>
-  <ol>
-    <li>post.comments = {{ post.comments }}</li>
-    <li>page.comments = {{ page.comments }}</li>
-    <li>page.disqus_identifier = {{ page.disqus_identifier }}</li>
-    <li>page.url = {{ page.url }}</li>
-    <li>site.disqus_short_name = {{ site.disqus_short_name }}</li>
-  </ol>
-{% if page.comments %}
+{% if post.comments %}
   <a href="{{ post.url }}">Discuss this post</a>
 {% endif %}
 </article>
