@@ -23,11 +23,16 @@
   <div class="post-content">
     {{ post.content }}
   </div>
-{% if post.comments %}
+  <b>HERE IS WHERE DISQUS CODE BEGINS</b>
+{% if page.comments %}
   <hr>
   <div id="disqus_thread"></div>
+<!--
   <script type="text/javascript" src="/js/disqus.js"></script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+-->
+  <script type="text/javascript" src="http://disqus.com/forums/qdmounts/embed.js"></script>
+  <noscript><a href=“http://qdmounts.disqus.com/?url=ref”>View the discussion thread.</a></noscript>
   <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-{% endif %}
+  {% endif %}
+  <b>HERE IS WHERE DISQUS CODE ENDS</b>
 </article>
