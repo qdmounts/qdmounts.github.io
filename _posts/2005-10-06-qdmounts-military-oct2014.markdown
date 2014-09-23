@@ -25,5 +25,5 @@ About Talbot QD Mounts
 Talbot QD Mounts, based in Flint, Michigan; designs, manufactures and markets an innovative line of mounting systems to the military, Homeland Security, law enforcement and industrial markets. Product applications include defense, police, industrial process and automotive manufacturing among others. Visit [their website](http://talbot.us/) for additional information.
 
 
-###
+`###`
 
