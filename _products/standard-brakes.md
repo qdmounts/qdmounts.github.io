@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Standard Brakes
-prev_section: lever-rings
+prev_section: tactical-rings
 next_section: gunsmith-brakes
 permalink: /products/standard-brakes/
 ---
