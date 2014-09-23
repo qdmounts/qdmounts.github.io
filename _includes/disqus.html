@@ -1,3 +1,4 @@
+<br><b>HERE IS WHERE DISQUS CODE BEGINS. {{ site.disqus_short_name }} & {{ page.comments }}</b><br>
 {% comment %} Load script if disquss comments are enabled and `page.comments` is either empty (index) or set to true {% endcomment %}
 {% if site.disqus_short_name and page.comments != false %}
 <script type="text/javascript">
@@ -27,3 +28,4 @@
 <noscript><a href=“http://{{ site.disqus_short_name }}.disqus.com/?url=ref”>View the discussion thread.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 {% endif %}
+<br><b>HERE IS WHERE DISQUS CODE ENDS</b><br>

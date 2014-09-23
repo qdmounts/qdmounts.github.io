@@ -23,7 +23,5 @@
   <div class="post-content">
     {{ post.content }}
   </div>
-  <br><b>HERE IS WHERE DISQUS CODE BEGINS. page.comments = {{ page.comments }}</b><br>
-    {% include disqus.html %}
-  <br><b>HERE IS WHERE DISQUS CODE ENDS</b><br>
+  {% include disqus.html %}
 </article>
