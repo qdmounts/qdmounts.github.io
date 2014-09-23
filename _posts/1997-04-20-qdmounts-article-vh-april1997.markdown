@@ -1,9 +1,9 @@
 ---
 layout: news_item
+comments: true
 title: 'Varmint Hunter 1997'
 date: 1997-04-20 10:22:00 -0500
 author: prolixalias
-comments: true
 categories: [article]
 ---
 

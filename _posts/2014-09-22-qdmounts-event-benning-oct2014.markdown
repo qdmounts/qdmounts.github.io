@@ -1,5 +1,6 @@
 ---
 layout: news_item
+comments: true
 title: '2014 International Sniper Competition'
 date: 2014-09-22 12:55:00 -0500
 event_date_start: 2014-10-20
