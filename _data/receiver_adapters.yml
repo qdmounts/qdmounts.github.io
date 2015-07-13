@@ -443,11 +443,11 @@
   price_list: '250.00'
   price_sale: '200.00'
 
-  - name: Steyr S
+- name: Steyr S
   price_list: '250.00'
   price_sale: '200.00'
 
-  - name: Steyr SL
+- name: Steyr SL
   price_list: '250.00'
   price_sale: '200.00'
 
