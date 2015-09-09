@@ -6,7 +6,7 @@ next_section: optic-adapters
 permalink: /products/receiver-adapters/
 ---
 
-We offer a large selection of bases for rifles, plus a few revolvers. All optic adapters can be used on *other* firearms, as necessary.
+We offer a large selection of bases for rifles, plus a few revolvers.
 
 ### Product list
 
