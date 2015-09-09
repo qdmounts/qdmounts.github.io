@@ -13,6 +13,4 @@ One accurate rifle, zeroed with any of the aforementioned optics can allow a 2-p
 
 ## Made in the USA
 
-We take satisfaction knowing we manufacture our products using 100% domestically-sourced materials. At Talbot QD Mounts, "Made in the USA" means a quality difference that lives and breathes our heritage.
-
-Closing stuff for main products page goes here. Marketing.
+We take satisfaction knowing we manufacture our products using 100% domestically-sourced materials. At Talbot QD Mounts, "Made in the USA" means a level of quality that lives and breathes our heritage.

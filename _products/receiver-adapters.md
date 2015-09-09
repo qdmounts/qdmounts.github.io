@@ -10,8 +10,6 @@ We offer a large selection of bases for rifles, plus a few revolvers. All optic 
 
 ### Product list
 
-In addition to the options below, you can request special configurations as well as unlisted rifles.
-
 <div class="mobile-side-scroller">
 
 <table>
@@ -31,6 +29,8 @@ In addition to the options below, you can request special configurations as well
 </table>
 </div>
 
-### Information
+### Additional Information
 
-Additional information goes here.
+You can request special configurations as well as unlisted rifles. We routinely augment the list or make custom bases upon request. We prefer
+a receiver/action we can measure ourselves. Either the same model, from our local shop, or a rifle you send for us to measure. In the latter
+case we mount the base and collimate scope at no additonal cost.
