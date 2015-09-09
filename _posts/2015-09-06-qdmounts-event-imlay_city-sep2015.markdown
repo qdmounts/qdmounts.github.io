@@ -20,7 +20,7 @@ We'll be attending **11SEP2015** through **13SEP2015**... On display:
 
 Stop by and see us!
 
-`    Eastern Michigan Firgroounds
+`    Eastern Michigan Fairgrounds
     195 Midway Street
     Imlay City, MI 48444
     810-724-4145
