@@ -1,11 +1,11 @@
 ---
 layout: news_item
-title: 'Norwalk Ohio Gun Show'
+title: 'Ohio Gun Collectors Association Show'
 date: 2015-09-08 01:23:00 -0500
 event_date_start: 2015-09-19
 event_date_end: 2015-09-20
 author: prolixalias
-location_city: Norwalk
+location_city: Wilmington
 location_state: OH
 comments: true
 disqus_identifier: '20150908012300'
@@ -20,10 +20,10 @@ We'll be attending **19SEP2015** through **20SEP2015**... On display:
 
 Stop by and see us!
 
-`    Huron County Fairgrounds
-    940 Fair Road
-    Norwalk, OH 44857
-    440-986-5004
+`    Roberts Centre
+    123 Gano Road
+    Wilmington, OH 45177
+    800-654-7306
 `
 
-For more information visit [Amarican Gun Shows'](http://www.americangunshows.com/GunShows/) website.
+For more information visit [Ohio Gun Collector's Association'](http://www.ogca.com/) website.
