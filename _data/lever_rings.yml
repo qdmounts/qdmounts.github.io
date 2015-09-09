@@ -1,14 +1,64 @@
-- name: This lever ring
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
+- name: 1" with 1/4 saddle 
+  note: Per pair
+  price_list: '50.00'
+  price_sale: '50.00'
 
-- name: That lever ring
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
+- name: 1" with 3/8 saddle 
+  note: Per pair
+  price_list: '52.00'
+  price_sale: '52.00'
 
-- name: Last lever ring
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
+- name: 1" with 1/2 saddle 
+  note: Per pair
+  price_list: '54.00'
+  price_sale: '54.00'
+
+- name: 1" with 3/4 saddle 
+  note: Per pair
+  price_list: '56.00'
+  price_sale: '56.00'
+
+- name: 30mm with 1/4 saddle 
+  note: Per pair
+  price_list: '65.00'
+  price_sale: '65.00'
+
+- name: 30mm with 3/8 saddle 
+  note: Per pair
+  price_list: '67.00'
+  price_sale: '67.00'
+
+- name: 30mm with 1/2 saddle 
+  note: Per pair
+  price_list: '69.00'
+  price_sale: '69.00'
+
+- name: 30mm with 5/8 saddle 
+  note: Per pair
+  price_list: '71.00'
+  price_sale: '71.00'
+
+- name: 34mm with 1/4 saddle 
+  note: Per pair
+  price_list: '70.00'
+  price_sale: '70.00'
+
+- name: 34mm with 3/8 saddle 
+  note: Per pair
+  price_list: '72.00'
+  price_sale: '72.00'
+
+- name: 34mm with 1/2 saddle 
+  note: Per pair
+  price_list: '74.00'
+  price_sale: '74.00'
+
+- name: 40mm with 1/4 saddle 
+  note: Per pair
+  price_list: '75.00'
+  price_sale: '75.00'
+
+- name: 40mm with 3/8 saddle 
+  note: Per pair
+  price_list: '75.00'
+  price_sale: '77.00'
