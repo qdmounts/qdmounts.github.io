@@ -6,11 +6,9 @@ next_section: tactical-rings
 permalink: /products/optic-adapters/
 ---
 
-We offer a large selection of bases for rifles, plus a few revolvers. All optic adapters, can be used on *other* firearms, as necessary.
+We offer an array of optic adapters. All optic adapters can be used on *other* firearms, as necessary.
 
 ### Product list
-
-In addition to the options below, you can request special configurations as well as unlisted optics.
 
 <div class="mobile-side-scroller">
 
@@ -30,6 +28,6 @@ In addition to the options below, you can request special configurations as well
 </table>
 </div>
 
-### Information
+### Additional Information
 
-Additional information goes here.
+In addition to the options above, you can request special configurations as well as unlisted/custom optics.
