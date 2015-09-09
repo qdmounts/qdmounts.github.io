@@ -6,11 +6,9 @@ next_section: standard-brakes
 permalink: /products/tactical-rings/
 ---
 
-We make these!
+Rugged nut-lock QD scope rings.
 
 ### Product list
-
-In addition to the options below, you can request special configurations as well as unlisted rings.
 
 <div class="mobile-side-scroller">
 
@@ -30,6 +28,6 @@ In addition to the options below, you can request special configurations as well
 </table>
 </div>
 
-### Information
+### Additional Information
 
-Additional information goes here.
+In addition to the options above, you can request special configurations as well as unlisted rings.
