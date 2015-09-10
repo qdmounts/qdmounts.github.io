@@ -12,7 +12,7 @@ disqus_identifier: '20140820203834'
 categories: [event, recreation]
 ---
 
-We'll be attending **26OCT014**... On display:
+We'll be attending **26OCT2014**... On display:
 
 * QD mounts for AR platform rifles
 * Various optic adapters
