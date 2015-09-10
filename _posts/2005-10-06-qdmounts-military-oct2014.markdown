@@ -6,7 +6,7 @@ author: prolixalias
 categories: [military]
 ---
 
-The Talbot line of combat accessory mounting systems is now available for purchase through the GSA Advantage! (GSAAdvantage.gov/) website and catalog.
+The Talbot line of combat accessory mounting systems is now available for purchase through the [GSA Advantage!](http://gsaadvantage.gov/) website and catalog.
 
 Press release:
 
