@@ -1,23 +1,28 @@
-- name: Remington 700 SA/LA
-  price_list: '220.00'
-  price_sale: '176.00'
+- name: Remington 700
+  price_list: '125.00'
+  price_sale: '125.00'
   options:
+    - option: SA
+    - option: LA
     - option: 0MOA
     - option: 10MOA
     - option: 20MOA
 
-- name: Winchester M70 SA/LA/MAG
-  price_list: '220.00'
-  price_sale: '176.00'
+- name: Winchester M70
+  price_list: '125.00'
+  price_sale: '125.00'
   options:
+    - option: SA
+    - option: LA
+    - option: MAG
     - option: 0MOA
     - option: 10MOA
     - option: 20MOA
 
 - name: Sako
-  note: All models.
-  price_list: '220.00'
-  price_sale: '176.00'
+  note: All dovetail models.
+  price_list: '125.00'
+  price_sale: '125.00'
   options:
     - option: 0MOA
     - option: 10MOA
@@ -25,8 +30,8 @@
 
 - name: Savage
   note: Most models including FTR.
-  price_list: '220.00'
-  price_sale: '176.00'
+  price_list: '125.00'
+  price_sale: '125.00'
   options:
     - option: 0MOA
     - option: 10MOA

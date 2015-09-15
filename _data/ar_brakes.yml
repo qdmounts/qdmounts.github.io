@@ -1,24 +1,8 @@
-- name: An AR brake
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
-  options:
-    - option: OPT1
-    - option: OPT2
-    - option: OPT3
+- name: Blued Steel
+  note: Generally left unblued for finish matching.
+  price_list: '60.00'
+  price_sale: '60.00'
 
-- name: Another Brake
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
-  options:
-    - option: OPT1
-    - option: OPT2
-
-- name: Last Brake
-  note: This is a note.
-  price_list: '100.00'
-  price_sale: '100.00'
-  options:
-    - option: OPT1
-    - option: OPT2
+- name: Stainless
+  price_list: '65.00'
+  price_sale: '65.00'

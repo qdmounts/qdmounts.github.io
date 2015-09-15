@@ -1,16 +1,14 @@
 ---
 layout: products
-title: AR Muzzle Brakes
+title: AR Brakes
 prev_section: tactical-rings
 next_section: standard-brakes
 permalink: /products/ar-brakes/
 ---
 
-We make these!
+Replaces standard-thread (5/8-24) AR muzzle brakes.
 
 ### Product list
-
-In addition to the options below, you can request special configurations as well as unlisted brakes.
 
 <div class="mobile-side-scroller">
 
@@ -32,4 +30,4 @@ In addition to the options below, you can request special configurations as well
 
 ### Additional Information
 
-Additional information goes here.
+Matrix of small holes greatly reduces flash signature, and recoil for faster follow-up shots.

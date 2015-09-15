@@ -8,10 +8,10 @@ repository: https://github.com/qdmounts
 disqus_short_name: qdmounts
 collections:
   docs:
-    output: true
+    output: false
     title: docs
   products:
     output: true
     title: products
-sale_active: false
-sale_ends: 2014-12-31
+sale_active: true
+sale_ends: 2015-12-31

@@ -18,11 +18,11 @@
   - standard-brakes
   - gunsmith-brakes
 
-- title: Industrial Mounts
-  products:
-  - github-pages
-  - deployment-methods
+#- title: Industrial Mounts
+#  products:
+#  - github-pages
+#  - deployment-methods
 
-- title: Miscellaneous
-  products:
-  - troubleshooting
+#- title: Miscellaneous
+#  products:
+#  - troubleshooting
