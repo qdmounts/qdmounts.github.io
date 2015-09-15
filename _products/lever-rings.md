@@ -2,7 +2,7 @@
 layout: products
 title: Lever Rings
 prev_section: picatinny-rails
-next_section: standard-brakes
+next_section: tactical-rings
 permalink: /products/lever-rings/
 ---
 
