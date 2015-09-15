@@ -2,6 +2,8 @@
   products:
   - receiver-adapters
   - optic-adapters
+
+  - title: Direct Mounts
   - picatinny-rails
 
 - title: Rings
