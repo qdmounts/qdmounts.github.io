@@ -1,8 +1,8 @@
 ---
 layout: products
-title: Receiver Adapters
-prev_section: home
-next_section: optic-adapters
+title: Picatinny Rails
+prev_section: optic-adapters
+next_section: lever-rings
 permalink: /products/receiver-adapters/
 ---
 
