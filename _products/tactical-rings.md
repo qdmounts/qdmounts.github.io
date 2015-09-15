@@ -2,7 +2,7 @@
 layout: products
 title: Tactical Rings
 prev_section: lever-rings
-next_section: standard-brakes
+next_section: ar-brakes
 permalink: /products/tactical-rings/
 ---
 
