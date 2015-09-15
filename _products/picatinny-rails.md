@@ -1,9 +1,9 @@
 ---
 layout: products
 title: Picatinny Rails
-prev_section: optic-adapters
-next_section: lever-rings
-permalink: /products/receiver-adapters/
+prev_section: home
+next_section: receiver-adapters
+permalink: /products/picatinny-rails/
 ---
 
 We offer a large selection of bases for rifles, plus a few revolvers.

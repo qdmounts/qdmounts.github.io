@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Receiver Adapters
-prev_section: home
+prev_section: picatinny-adapters
 next_section: optic-adapters
 permalink: /products/receiver-adapters/
 ---
