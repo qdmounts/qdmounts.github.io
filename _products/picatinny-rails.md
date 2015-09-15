@@ -6,7 +6,7 @@ next_section: lever-rings
 permalink: /products/picatinny-rails/
 ---
 
-We offer a large selection of bases for rifles, plus a few revolvers.
+We offer several rails for popular bolt rifles.
 
 ### Product list
 
