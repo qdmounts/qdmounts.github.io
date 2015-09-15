@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Lever Rings
-prev_section: optic-adapters
+prev_section: picatinny-rails
 next_section: standard-brakes
 permalink: /products/lever-rings/
 ---

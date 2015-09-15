@@ -2,7 +2,7 @@
 layout: products
 title: Optic Adapters
 prev_section: receiver-adapters
-next_section: tactical-rings
+next_section: picatinny-rails
 permalink: /products/optic-adapters/
 ---
 
