@@ -21,7 +21,7 @@ We offer a large selection of bases for rifles, plus a few revolvers.
     </tr>
   </thead>
   <tbody>
-{% for item in site.data.receiver_adapters %}
+{% for item in site.data.picatinny_rails %}
   {% include product_list.html %}
 {% endfor %}
 
