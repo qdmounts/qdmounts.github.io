@@ -2,7 +2,7 @@
 layout: products
 title: AR Brakes
 prev_section: tactical-rings
-next_section: standard-brakes
+next_section: gunsmith-brakes
 permalink: /products/ar-brakes/
 ---
 
