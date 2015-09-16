@@ -5,7 +5,7 @@ prev_section: ar-brakes
 permalink: /products/gunsmith-brakes/
 ---
 
-"Felt Recoil" is reduced by roughly 50%. With larger powder capacity cartridges, like a .308 WIN MAG, reduction of roughly 60% is achieved.
+"Felt Recoil" with a .308WIN reduced by roughly 50%. With larger powder capacity cartridges, like a .300WIN MAG, reduction of roughly 60% is achieved.
 
 ### Product list
 
