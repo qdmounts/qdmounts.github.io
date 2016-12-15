@@ -26,4 +26,4 @@ Stop by and see us!
     800-654-7306
 `
 
-For more information visit [Ohio Gun Collector's Association'](http://www.ogca.com/) website.
+For more information visit [Ohio Gun Collector's Association](http://www.ogca.com/) website.
